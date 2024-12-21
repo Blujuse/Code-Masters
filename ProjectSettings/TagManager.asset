@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KillBox
+  - Checkpoint
+  - Correct
+  - Wrong
+  - Robot
+  - Canvas
+  - Puzzle_Canvas
+  - Text_Canvas
+  - Drop_Point
+  - Plug
+  - CodeBlock_Up
+  - CodeBlock_Down
+  - CodeBlock_Left
+  - CodeBlock_Right
+  - Puzzle_Canvas_2
+  - Plug_Two
+  - Puzzle_Two_Block
+  - Interaction Canvas
+  - Pause Menu Canvas
+  - Third Person Cam
+  - Settings Menu
+  - Main Pause Menu
+  - Main Menu Edit
+  - TutorialPos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - WhatisGround
+  - Water
+  - UI
+  - Player
+  - Wall
+  - WhatisPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
